@@ -10,7 +10,7 @@
 
 - Backend-разработка
 - Тестирование (JUnit + Playwright)
-- Иногда Android-приложения
+- Android-приложения
 
 ---
 
@@ -19,7 +19,6 @@
 | Категория | Технологии |
 |-----------|------------|
 | Языки | Java |
-| Backend | Spring Framework, Spring Boot (начальный) |
 | Android | Android Studio |
 | Тестирование | JUnit, Playwright |
 | Базы данных | SQL |
