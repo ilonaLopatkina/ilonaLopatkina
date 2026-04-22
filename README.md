@@ -1,16 +1,33 @@
-## Hi there 👋
+# Привет, я Илона 👋
 
-<!--
-**ilonaLopatkina/ilonaLopatkina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Студентка НГТУ им. Р.Е. Алексеева  
+Направление: «Информационные системы и технологии»  
+Пишу на Java
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Чем занимаюсь
+
+- Backend-разработка
+- Тестирование (JUnit + Playwright)
+- Иногда Android-приложения
+
+---
+
+## Инструменты
+
+| Категория | Технологии |
+|-----------|------------|
+| Языки | Java |
+| Backend | Spring Framework, Spring Boot (начальный) |
+| Android | Android Studio |
+| Тестирование | JUnit, Playwright |
+| Базы данных | SQL |
+| Сборка | Gradle, Maven |
+
+---
+
+## Контакты
+
+- GitHub: [@ilonaLopatkina](https://github.com/ilonaLopatkina)
+- Почта: ilona.lopatkina2005@gmail.com
